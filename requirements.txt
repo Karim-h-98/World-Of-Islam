@@ -1,5 +1,5 @@
 streamlit
-st-on-hover-tabs
+streamlit-on-hover-tabs
 requests
 streamlit-lottie
 openai
