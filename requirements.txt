@@ -1,0 +1,6 @@
+streamlit
+st-on-hover-tabs
+requests
+streamlit-lottie
+openai
+edge-tts
